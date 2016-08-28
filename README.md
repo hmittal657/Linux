@@ -1,0 +1,1 @@
+Useful configs and other stuff for General Linux
